@@ -19,7 +19,7 @@ To run the mobile application:
 7. Click start debugging/ run without debugging
 
 Congratulation! You are now running the mobile application, feel free to use image from the 
-dataset folder to test the mobile application. You also can refer to demo.pdf file on how to run the application
+basedata folder to test the mobile application. You also can refer to demo.pdf file on how to run the application
 and see how the application works.
 
 
