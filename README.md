@@ -9,8 +9,8 @@ Requirements:
 
 To run the mobile application:
 
-1. Download the holaskin.rar file and extract it to your PC/ laptop
-2. Open the holaskin folder using Android Studio/ Visual Studio Code
+1. Download the file and extract it to your PC/ laptop
+2. Open the folder using Android Studio/ Visual Studio Code
 3. Make sure you have flutter and dart installed in the Android Studio/ Visual Studio Code
    (for more info visit: https://flutter.dev/docs/get-started/install/windows)
 4. To run application on your device, turn on the USB debugging at phone setting
@@ -19,7 +19,7 @@ To run the mobile application:
 7. Click start debugging/ run without debugging
 
 Congratulation! You are now running the mobile application, feel free to use image from the 
-data to test the mobile application. You also can refer to demo.pdf file on how to run the application
+dataset folder to test the mobile application. You also can refer to demo.pdf file on how to run the application
 and see how the application works.
 
 
